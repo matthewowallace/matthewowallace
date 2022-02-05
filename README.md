@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Matthew Wallace
 #### Front-End Developer / UI Developer
-![Front-End Developer / UI Developer](https://www.behance.net/gallery/130087985/Skullcandy-mobile-concept-design)
+![Front-End Developer / UI Developer](https://github.com/matthewowallace/matthewowallace/blob/main/git%20cover.png)
 
 Creative Front-End/ UI Developer with over 2 years worth of experience developing impactful solutions for diverse industries. Dedicated to designing customer satisfactory solutions; developing and testing impactful implementations within a collaborative work environment
 
