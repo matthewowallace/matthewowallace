@@ -1,5 +1,5 @@
 
-## <h1>Matthew Wallace </h1> <img src='https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif' width='150px'/>
+## <span> <h1>Matthew Wallace </h1> <img src='https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif' width='150px'/> </span>
 
 
 ## Front-End Developer / UI Developer
