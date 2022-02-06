@@ -1,5 +1,5 @@
 
-## Matthew Wallace [<img src='https://i.pinimg.com/originals/3a/57/52/3a5752e99cb6915a1f3b8bad68b3582a.gif' width='110px' height="110"/>]  [<img src='https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif' width='150px'/>] 
+## Matthew Wallace [<img src='https://i.pinimg.com/originals/3a/57/52/3a5752e99cb6915a1f3b8bad68b3582a.gif' width='500px' height="140"/>]  [<img src='https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif' width='150px'/>] 
 
 
 ## Front-End Developer / UI Developer
