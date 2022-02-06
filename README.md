@@ -2,7 +2,7 @@
 <h1>Matthew Wallace<h1>
 <span>
  <img src='https://i.pinimg.com/originals/3a/57/52/3a5752e99cb6915a1f3b8bad68b3582a.gif' width='500px' height="140"/>  <img      src='https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif' width='150px'/> 
- <span>
+ </span>
 
 
 ## Front-End Developer / UI Developer
