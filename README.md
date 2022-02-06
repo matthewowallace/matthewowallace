@@ -1,13 +1,8 @@
-h1 {
-  font-size: 72px;
-  background: -webkit-linear-gradient(#eee, #333);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-}
 
+#Matthew Wallace 
+<h1 font-size='72px' background='-webkit-linear-gradient(#eee, #333)'   -webkit-background-clip='text' -webkit-text-fill-color='transparent'> Matthew Wallace </h1>
 
-# <h1 font-size='72px' background='-webkit-linear-gradient(#eee, #333)'   -webkit-background-clip='text' -webkit-text-fill-color='transparent'> Matthew Wallace </h1>
-#### Front-End Developer / UI Developer
+## Front-End Developer / UI Developer
 ![Front-End Developer / UI Developer](https://github.com/matthewowallace/matthewowallace/blob/main/git%20cover.png)
 
 Creative Front-End/ UI Developer with over 2 years worth of experience developing impactful solutions for diverse industries. Dedicated to designing customer satisfactory solutions; developing and testing impactful implementations within a collaborative work environment
