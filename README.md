@@ -1,5 +1,4 @@
 
-#Matthew Wallace 
 <h1 font-size='72px' background='-webkit-linear-gradient(#eee, #333)'   -webkit-background-clip='text' -webkit-text-fill-color='transparent'> Matthew Wallace </h1>
 
 ## Front-End Developer / UI Developer
