@@ -1,14 +1,14 @@
 
 <h1 font-size='200px'> Matthew Wallace </h1>
-<span>
- <img src='https://i.pinimg.com/originals/3a/57/52/3a5752e99cb6915a1f3b8bad68b3582a.gif' width='500px' height="140"/>  <img      src='https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif' width='150px'/> 
- </span>
-
 
 ## Front-End Developer / UI Developer
 ![Front-End Developer / UI Developer](https://github.com/matthewowallace/matthewowallace/blob/main/git%20cover.png)
 
 Creative Front-End/ UI Developer with over 2 years worth of experience developing impactful solutions for diverse industries. Dedicated to designing customer satisfactory solutions; developing and testing impactful implementations within a collaborative work environment
+
+<span>
+ <img src='https://i.pinimg.com/originals/3a/57/52/3a5752e99cb6915a1f3b8bad68b3582a.gif' width='500px' height="140"/>  <img      src='https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif' width='150px'/> 
+ </span>
 
 ## Skills & Experience : 
 [<img src="https://camo.githubusercontent.com/533da8800843b57b91a3227ce7d151ca865a0eeaae675715e209c0092314fa96/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3435623864383f7374796c653d666c61742d737175617265266c6f676f3d7265616374266c6f676f436f6c6f723d7768697465"/>]
