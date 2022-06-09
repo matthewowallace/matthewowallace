@@ -11,7 +11,9 @@ Creative Front-End/ UI Developer with over 2 years worth of experience developin
  </span>
 
 ## Skills & Experience : 
-[<img src="https://mir-s3-cdn-cf.behance.net/projects/404/faaba5137584907.Y3JvcCwzOTI4LDMwNzIsMCww.png"/>]
+[<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>]
+[<img src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue"/>]
+[<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>]
 [<img src="https://camo.githubusercontent.com/0c3a16a22ae058cfe38a06dc9ea16404cf006409262f547c9ccfa3ec8b30f71e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d4533344632363f7374796c653d666c61742d737175617265266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465"/>]
 [<img src="https://camo.githubusercontent.com/7f8b6716845b5d9cd69f8ce04e587bb955f45040549f33cbd5e9baf464ae5e7e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6573744a732d6561323834353f7374796c653d666c61742d737175617265266c6f676f3d6e6573746a73266c6f676f436f6c6f723d7768697465"/>]
 [<img src="https://camo.githubusercontent.com/1e50ab849e8c196ea962ac3b966a15924234879eeb85f9dd0e0431e43a145b43/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e504d2d4342333833373f7374796c653d666c61742d737175617265266c6f676f3d6e706d266c6f676f436f6c6f723d7768697465"/>]
@@ -26,9 +28,10 @@ Creative Front-End/ UI Developer with over 2 years worth of experience developin
 ## Examples of Work
 
 <span>
-<img src="https://scontent.fktp2-1.fna.fbcdn.net/v/t39.30808-6/274132539_5020387858027728_6201689943286850486_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=730e14&_nc_ohc=6Hi0bmtqt-gAX94O6L1&_nc_ht=scontent.fktp2-1.fna&oh=00_AT-l140xrymV_26lQYS3klLms7RhEjM1qBAa_B9K4cdxyA&oe=62368E1B" width="250" height="250"/>
-
-<img src="https://scontent.fktp2-1.fna.fbcdn.net/v/t1.6435-9/162218497_3958251194241405_1024333494781576987_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=730e14&_nc_ohc=00agBmKInkEAX_HKu8C&_nc_ht=scontent.fktp2-1.fna&oh=00_AT9nKa9CbEdFiKCdnDmZCmbCP7gbMDkSU781WCYcSr6_yA&oe=62568E27" width="250" height="250"/>
+ <img src="https://mir-s3-cdn-cf.behance.net/projects/404/faaba5137584907.Y3JvcCwzOTI4LDMwNzIsMCww.png" width="250" height="250"/>
+  <img src="https://mir-s3-cdn-cf.behance.net/projects/404/c61fe3126712117.Y3JvcCwxMjgyLDEwMDMsNjAsMA.png" width="250" height="250"/>
+   <img src="https://mir-s3-cdn-cf.behance.net/projects/404/95d851116871853.Y3JvcCw4MzEwLDY1MDAsMTAyLDA.png" width="250" height="250"/>
+ 
 
 <img src="https://scontent.fktp2-1.fna.fbcdn.net/v/t1.6435-9/161740401_3957993044267220_5306126495439312304_n.jpg?stp=dst-jpg_s600x600&_nc_cat=111&ccb=1-5&_nc_sid=730e14&_nc_ohc=B-7yu3GySd8AX-x6UvE&_nc_ht=scontent.fktp2-1.fna&oh=00_AT_fY3pYnnixf-FQzXj3SKfdGewyqEQ8adfbEs3lNwwhiw&oe=62560B5A" width="250" height="250"/>
   
@@ -38,7 +41,7 @@ Creative Front-End/ UI Developer with over 2 years worth of experience developin
 
  <img src="https://github.com/matthewowallace/matthewowallace/blob/main/1.png" width="250" height="250" />
   
-<img src="https://scontent.fktp2-1.fna.fbcdn.net/v/t1.6435-9/205207183_4257745994291922_8612007467046123055_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=730e14&_nc_ohc=0ESTRQlFIc4AX8Ib_d1&_nc_ht=scontent.fktp2-1.fna&oh=00_AT8DdVIRBBnbpPfsWnq2iwxvR8nfBqnt27N4g14zpQWQ4A&oe=62572778" width="250" height="250" />
+<img src="https://mir-s3-cdn-cf.behance.net/projects/404/180142109341859.5fd17e9472717.jpg" width="250" height="250" />
 <span/>
 
  ## Social Media
