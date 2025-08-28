@@ -18,10 +18,6 @@ Creative Front-End/ UI Developer with over 2 years worth of experience developin
 ## Examples of Work
 
 <span>
- <img src="https://mir-s3-cdn-cf.behance.net/projects/404/faaba5137584907.Y3JvcCwzOTI4LDMwNzIsMCww.png" width="250" height="250"/>
-  <img src="https://mir-s3-cdn-cf.behance.net/projects/404/c61fe3126712117.Y3JvcCwxMjgyLDEwMDMsNjAsMA.png" width="250" height="250"/>
-   <img src="https://mir-s3-cdn-cf.behance.net/projects/404/95d851116871853.Y3JvcCw4MzEwLDY1MDAsMTAyLDA.png" width="250" height="250"/>
- 
 
 <img src="https://mir-s3-cdn-cf.behance.net/projects/404/c15fcd145667281.Y3JvcCwxMjU1LDk4MiwxMjcsMA.png" width="250" height="250"/>
   
@@ -38,4 +34,4 @@ Creative Front-End/ UI Developer with over 2 years worth of experience developin
   
  <div/> 
   
-[<img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white' alt='github' height='40' color='#FF00FF'>](https://github.com/matthewowallace)  [<img src='https://camo.githubusercontent.com/a493f6833f99fb3c85788d6d9305e6b7a42b838e5ee5d138fd9a8214a7e77472/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465' alt='linkedin' height='40' color='#FF00FF'>](https://www.linkedin.com/in/https://www.linkedin.com/in/matthew-w-8748b0196//)  [<img src='https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white' alt='facebook' height='40' color='#FF00FF'>](https://www.facebook.com/MatthewWallace)  [<img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' alt='instagram' height='40' color='#FF00FF'>](https://www.instagram.com/matthewowallace/)  [<img src='https://camo.githubusercontent.com/7682cd75b45cbe5504360205624d2a57fba784c84d0bdaf7c553406d5c6b1bda/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426568616e63652d3030353446373f7374796c653d666f722d7468652d6261646765266c6f676f3d626568616e6365266c6f676f436f6c6f723d7768697465' alt='behance' height='40' color='#fff'>](https://www.behance.net/matthewwallace4)  
+[<img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white' alt='github' height='40' color='#FF00FF'>](https://github.com/matthewowallace)  [<img src='https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white' alt='facebook' height='40' color='#FF00FF'>](https://www.facebook.com/MatthewWallace)  [<img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' alt='instagram' height='40' color='#FF00FF'>](https://www.instagram.com/matthewowallace/)  
