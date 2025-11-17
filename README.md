@@ -1,10 +1,10 @@
 
 <h1 font-size='200px'> Matthew Wallace </h1>
 
-## Front-End Developer / UI Developer
+## FullStack Developer / Product Designer
 ![Front-End Developer / UI Developer](https://github.com/matthewowallace/matthewowallace/blob/main/git%20cover.png)
 
-Creative Front-End/ UI Developer with over 2 years worth of experience developing impactful solutions for diverse industries. Dedicated to designing customer satisfactory solutions; developing and testing impactful implementations within a collaborative work environment
+
 
 <span>
  <img src='https://i.pinimg.com/originals/3a/57/52/3a5752e99cb6915a1f3b8bad68b3582a.gif' width='500px' height="140"/>  <img      src='https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif' width='150px'/> 
