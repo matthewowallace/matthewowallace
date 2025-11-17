@@ -4,7 +4,11 @@
 ## FullStack Developer / Product Designer
 ![Front-End Developer / UI Developer](https://github.com/matthewowallace/matthewowallace/blob/main/git%20cover.png)
 
+About Me
 
+<h3>Problem Solver Developing Software Solutions Since 2019</h3>
+
+I am a dedicated UI/UX designer and problem solver with over three years of experience delivering effective, user-centered solutions across diverse industries. With strong time management and keen attention to detail, I thrive in collaborative environments where I can contribute to the design, development, and testing of impactful digital experiences. My design process is grounded in research and data-driven insights, ensuring every decision aligns with user behavior, industry trends, and business goals.
 
 <span>
  <img src='https://i.pinimg.com/originals/3a/57/52/3a5752e99cb6915a1f3b8bad68b3582a.gif' width='500px' height="140"/>  <img      src='https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif' width='150px'/> 
