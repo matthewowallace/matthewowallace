@@ -15,21 +15,6 @@
 [<img src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue"/>]
 [<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>]
 
-## Examples of Work
-
-<span>
-
-<img src="https://mir-s3-cdn-cf.behance.net/projects/404/c15fcd145667281.Y3JvcCwxMjU1LDk4MiwxMjcsMA.png" width="250" height="250"/>
-  
-<img src="https://github.com/matthewowallace/matthewowallace/blob/main/10.png" width="250" height="250"/>
-  
-<img src="https://github.com/matthewowallace/matthewowallace/blob/main/5.png" width="250" height="250" />
-
- <img src="https://github.com/matthewowallace/matthewowallace/blob/main/1.png" width="250" height="250" />
-  
-<img src="https://mir-s3-cdn-cf.behance.net/projects/404/180142109341859.5fd17e9472717.jpg" width="250" height="250" />
-<span/>
-
  ## Social Media
   
  <div/> 
